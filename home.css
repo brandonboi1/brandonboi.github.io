@@ -1173,11 +1173,11 @@ font-size: 6px;
   width: 600px;
   bottom: 0;
   right: 0;
-  margin-right: -23%;
+  margin-right: -22%;
   float: right;
   margin-top: 15%;
   margin-bottom: 10%;
-  position: fixed;
+  position: relative;
 }
 
 .one{
