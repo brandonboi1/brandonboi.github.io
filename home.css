@@ -1177,7 +1177,7 @@ font-size: 6px;
   float: right;
   margin-top: 15%;
   margin-bottom: 10%;
-  position: relative;
+  position: fixed;
 }
 
 .one{
